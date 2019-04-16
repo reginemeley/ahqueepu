@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thoophooy.dontbreakourphones.org/sitemap.xml
